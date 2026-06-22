@@ -60,7 +60,7 @@ netifaces==0.10.7
 dnspython==1.16.0
 ldap3==2.5.0
 fabric==2.4.0
-invoke==1.2.0
+invoke==3.0.3
 ansible==2.7.0
 salt==2019.2.0
 docker==3.7.0
